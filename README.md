@@ -1,0 +1,1 @@
+# -OCR-in-Dot-NET-Core-with-Tesseract
