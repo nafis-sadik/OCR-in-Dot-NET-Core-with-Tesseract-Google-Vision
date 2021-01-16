@@ -1,6 +1,4 @@
-# -OCR-in-Dot-NET-Core-with-Tesseract
-
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+# OCR-in-Dot-NET-Core-with-Tesseract
 
 ![Framework](https://img.shields.io/badge/framework-.net%20core%20v3.1-green)
 
