@@ -4,14 +4,12 @@
 
 # Dependencies for Tesseract
 
-| -------------------------------------------- | -------------------------------------------------------------------- |
 | Tools & Frameworks                           | Links                                                                |
 | -------------------------------------------- | -------------------------------------------------------------------- |
 | Tesseract Engine exe                         | [Download](https://digi.bib.uni-mannheim.de/tesseract/)              |
 | Tesseract Nuget Package                      | [Nuget](https://www.nuget.org/packages/Tesseract/4.1.1/)             |
 | System.Drawing.Common                        | [Nuget](https://www.nuget.org/packages/System.Drawing.Common/5.0.0/) |
 | Tesseract Installation & Configuration Guide | [Youtube](https://www.youtube.com/watch?v=QJkKDsjj1oA)               |
-| -------------------------------------------- | -------------------------------------------------------------------- |
 
 # How to use it? (Tesseract)
 
