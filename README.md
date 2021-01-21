@@ -26,7 +26,7 @@ Once Tesseract Engine has been installed and configured
 
     Run the project
 
-# Inside Program.cs
+# Inside Program.cs of OCR-in-Dot-NET-Core-with-Tesseract
 
 - Put the path of your image with text at "**imgPath**" variable
 - Put the path of your tessdata directory at "**tessdataPath**" variable
