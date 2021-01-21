@@ -52,6 +52,7 @@ Once Tesseract Engine has been installed and configured
     Clone the repository
     
 **Step # 2 :**
+
     Get Cridientials for API and set Environment Variables [Youtube](https://www.youtube.com/watch?v=UYKukqorksU&t=117s)
     
 **Step # 3 :**
