@@ -52,10 +52,22 @@ Once Tesseract Engine has been installed and configured
 
     Clone the repository
     
-**Step # 2 [Youtube Tutorial](https://www.youtube.com/watch?v=UYKukqorksU&t=117s) :**
+**Step # 2 :**
 
-    Get Cridientials for API and set Environment Variables 
+    Get Cridientials for API and set Environment Variables.
+    This youtube tutorial might be helpful :
+    https://www.youtube.com/watch?v=UYKukqorksU&t=117s
     
 **Step # 3 :**
+
+    Enable Google Vision API for your project from here
+    https://console.developers.google.com/apis/api/vision.googleapis.com/overview
+    
+**Step # 4 :**
+
+    Enable Billing for your project. Take help from here
+    https://console.developers.google.com/billing/enable
+    
+**Step # 5 :**
 
     Run the project
