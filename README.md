@@ -59,5 +59,3 @@ Once Tesseract Engine has been installed and configured
 **Step # 3 :**
 
     Run the project
-
-https://console.developers.google.com/apis/library/vision.googleapis.com?project=testocr-302208
