@@ -16,8 +16,11 @@ namespace OCR_in_Dot_NET_Core_with_Tesseract
         {
             try
             {
-                string imgPath = @"D:/Era Infotech Remote Job/OCR-in-Dot-NET-Core-with-Tesseract/OCR-in-Dot-NET-Core-with-Tesseract/TestImg.bmp";
-                string tessdataPath = @"C:/Program Files (x86)/Tesseract-OCR/tessdata";
+                string imgPath = @"D:\OCR\OCR-in-Dot-NET-Core-with-Tesseract\OCR-in-Dot-NET-Core-with-Tesseract\TestData\num.bmp";
+                //string imgPath = @"D:\OCR\OCR-in-Dot-NET-Core-with-Tesseract\OCR-in-Dot-NET-Core-with-Tesseract\TestData\TestImg.bmp";
+                //string imgPath = @"D:\OCR\OCR-in-Dot-NET-Core-with-Tesseract\OCR-in-Dot-NET-Core-with-Tesseract\TestData\imgpsh_fullsize_anim.bmp";
+                //string imgPath = @"D:\OCR\OCR-in-Dot-NET-Core-with-Tesseract\OCR-in-Dot-NET-Core-with-Tesseract\TestData\Handwriting-sample-Katie.png";
+                string tessdataPath = @"C:/Program Files/Tesseract-OCR/tessdata";
                 string lang = "eng";
                 Pix pix = Pix.LoadFromFile(imgPath);
                 TesseractEngine tesseractEngine = new TesseractEngine(tessdataPath, lang, EngineMode.Default);
@@ -28,7 +31,7 @@ namespace OCR_in_Dot_NET_Core_with_Tesseract
             }
             catch (Exception ex)
             {
-                Console.WriteLine(ex.Message);
+                Console.WriteLine("Exception message: " + ex.Message);
                 Console.ReadLine();
             }
         }
