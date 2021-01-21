@@ -1,6 +1,7 @@
 # OCR in .NET Core with Tesseract and Google Vision
 
 ![Framework](https://img.shields.io/badge/framework-.net%20core%20v3.1-green)
+![Framework](https://img.shields.io/badge/API-Google%20Vision-orange)
 
 # Dependencies for Tesseract
 
