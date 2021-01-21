@@ -32,3 +32,29 @@ Once Tesseract Engine has been installed and configured
 - Put the path of your image with text at "**imgPath**" variable
 - Put the path of your tessdata directory at "**tessdataPath**" variable
 - Put your desired language selection in "**lang**" variable based on file names available inside **tessdata** directory
+
+# Dependencies for Google Vision API
+
+| Tools & Frameworks                             | Links                                                                                                                       |
+| ---------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------  |
+| Google Account                                 | [SignUp](https://accounts.google.com/signup/v2/webcreateaccount?hl=en&flowName=GlifWebSignIn&flowEntry=SignUp)              |
+| This API method requires billing to be enabled | [Enable Billing](https://console.developers.google.com/billing/enable?project=testocr-302208)                               |
+| System.Drawing.Common                          | [Nuget](https://www.nuget.org/packages/System.Drawing.Common/5.0.0/)                                                        |
+| Tesseract Installation & Configuration Guide   | [Youtube](https://www.youtube.com/watch?v=QJkKDsjj1oA)                                                                      |
+
+# How to use it? (Google Vision API)
+
+Once Tesseract Engine has been installed and configured
+**Step # 1 :**
+
+    Clone the repository
+
+**Step # 2 :**
+
+    Open the solution file (Recommended with Visual Studio 2019)
+
+**Step # 3 :**
+
+    Run the project
+
+https://console.developers.google.com/apis/library/vision.googleapis.com?project=testocr-302208
