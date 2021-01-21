@@ -2,7 +2,7 @@
 
 ![Framework](https://img.shields.io/badge/framework-.net%20core%20v3.1-green)
 
-# Dependencies
+# Dependencies for Tesseract
 
 | Tools & Frameworks                           | Links                                                                |
 | -------------------------------------------- | -------------------------------------------------------------------- |
@@ -11,7 +11,7 @@
 | System.Drawing.Common                        | [Nuget](https://www.nuget.org/packages/System.Drawing.Common/5.0.0/) |
 | Tesseract Installation & Configuration Guide | [Youtube](https://www.youtube.com/watch?v=QJkKDsjj1oA)               |
 
-# How to use it?
+# How to use it? (Tesseract)
 
 Once Tesseract Engine has been installed and configured
 **Step # 1 :**
