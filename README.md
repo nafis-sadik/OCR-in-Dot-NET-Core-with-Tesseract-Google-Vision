@@ -15,6 +15,7 @@
 # How to use it? (Tesseract)
 
 Once Tesseract Engine has been installed and configured
+
 **Step # 1 :**
 
     Clone the repository
@@ -45,6 +46,7 @@ Once Tesseract Engine has been installed and configured
 # How to use it? (Google Vision API)
 
 Once Tesseract Engine has been installed and configured
+
 **Step # 1 :**
 
     Clone the repository
