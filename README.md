@@ -40,8 +40,9 @@ Once Tesseract Engine has been installed and configured
 | ---------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------  |
 | Google Account                                 | [SignUp](https://accounts.google.com/signup/v2/webcreateaccount?hl=en&flowName=GlifWebSignIn&flowEntry=SignUp)              |
 | This API method requires billing to be enabled | [Enable Billing](https://console.developers.google.com/billing/enable?project=testocr-302208)                               |
-| System.Drawing.Common                          | [Nuget](https://www.nuget.org/packages/System.Drawing.Common/5.0.0/)                                                        |
-| Tesseract Installation & Configuration Guide   | [Youtube](https://www.youtube.com/watch?v=QJkKDsjj1oA)                                                                      |
+| CommandLine Parser                             | [Nuget](https://www.nuget.org/packages/CommandLineParser)                                                                   |
+| Google Cloud Storage V1                        | [Nuget](https://www.nuget.org/packages/Google.Cloud.Storage.V1/)                                                            |
+| Google Cloud Vision V1                         | [Nuget](https://www.nuget.org/packages/Google.Cloud.Vision.V1/)                                                             |
 
 # How to use it? (Google Vision API)
 
