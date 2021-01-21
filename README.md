@@ -54,8 +54,8 @@ Once Tesseract Engine has been installed and configured
 
 **Step # 2 :**
 
-    Open the solution file (Recommended with Visual Studio 2019)
-
+    Get Cridientials for API and set Environment Variables [Youtube](https://www.youtube.com/watch?v=UYKukqorksU&t=117s)
+    
 **Step # 3 :**
 
     Run the project
