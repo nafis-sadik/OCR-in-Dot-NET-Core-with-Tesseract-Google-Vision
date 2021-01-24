@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OCR-in-Dot-NET-Core-with-Tesseract", "OCR-in-Dot-NET-Core-with-Tesseract\OCR-in-Dot-NET-Core-with-Tesseract.csproj", "{9F4C1527-A106-487F-A37D-3E6944525FE2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OCR using Google Cloud Vision API", "OCR using Google Cloud Vision API\OCR using Google Cloud Vision API.csproj", "{B22CDCEC-470E-40FD-85B8-8ED85ABD99FD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OCR using Google Cloud Vision API", "OCR using Google Cloud Vision API\OCR using Google Cloud Vision API.csproj", "{B22CDCEC-470E-40FD-85B8-8ED85ABD99FD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
