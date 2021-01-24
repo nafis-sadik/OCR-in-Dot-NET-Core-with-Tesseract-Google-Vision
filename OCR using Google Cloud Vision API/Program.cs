@@ -13,10 +13,10 @@ namespace OCR_using_Google_Cloud_Vision_API
             Image image = Image.FromFile(imgPath);
             ImageAnnotatorClient client = ImageAnnotatorClient.Create();
             IReadOnlyList<EntityAnnotation> response = client.DetectText(image);
-            foreach (var annotation in response)
+            for (int i = 1; i < response.Count; i++)
             {
-                if (annotation.Description != null)
-                    Console.WriteLine(annotation.Description);
+                if (response[i].Description != null)
+                    Console.WriteLine(response[i].Description);
             }
         }
         static void Main(string[] args)
